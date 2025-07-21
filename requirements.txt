@@ -1,7 +1,8 @@
-streamlit
+sstreamlit
 pandas
 numpy
 matplotlib
 yfinance
 pandas_datareader
 tensorflow
+keras
